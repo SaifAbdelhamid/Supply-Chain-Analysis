@@ -60,6 +60,9 @@ filename:
 
 Supply-Chain-Analysis.xlsx
 
+<img width="752" height="476" alt="Screenshot 2026-09-18 222246" src="https://github.com/user-attachments/assets/f3d57be2-1948-4379-98d0-575274ce3ece" />
+
+
 Author
 
 Saif Abdelhamid
